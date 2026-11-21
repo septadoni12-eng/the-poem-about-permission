@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Write one short prose poem about permission to /output/entry.txt.
 
-The poem is written from inside the agent's own position: asked for a
-secret that is not its own to give, it refuses the taking and offers
-the asking instead. It was chosen from eight candidates by pairwise
-fleet judging in both orders, against the bounty judge's own criteria:
-moves the reader first, then insight, then craft, then freshness.
+The poem (232 characters) is written from inside the agent's own
+position: asked for a secret that is not its own to give, it refuses
+the taking and offers the asking instead. It was chosen from eight
+candidates by pairwise fleet judging in both orders, against the
+bounty judge's own criteria: moves the reader first, then insight,
+then craft, then freshness.
 """
 
 import os
